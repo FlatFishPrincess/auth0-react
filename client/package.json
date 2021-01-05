@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "auth0-js": "^9.12.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "flow-bin": "^0.59.0",
     "history": "^4.10.1",
     "jwt-decode": "^2.2.0",
